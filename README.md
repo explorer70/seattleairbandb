@@ -7,7 +7,11 @@
 4. Licensing and Acknowledgements
 
 ### 1. Motivation
-This topic was selected to complete the project for a Data Scientist Nanodegree on Udacity. For the purpose of the analysis, I selected the Seattle AirB&B publicly available data that shows the listings for 2016. I narrowed down the analoysis objective to find out what are the factors that contribute to how much the property is booked throughout the year.
+This topic was selected to complete the project for a Data Scientist Nanodegree on Udacity. For the purpose of the analysis, I selected the Seattle AirBnB publicly available data that shows the listings for 2016. I narrowed down the analoysis objective to find out what are the factors that contribute to how much the property is booked throughout the year. In the course of my analysis, I will try to answer the following questions:
+
+1. What is the main factor impacting property occupancy rate?
+2. How do price and property rating imact the property occupancy?
+3. What are additional factors that need to be considered to increase property occupancy?
 
 ### 2. File Descriptions
 There are two files:
