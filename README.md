@@ -13,6 +13,8 @@ This topic was selected to complete the project for a Data Scientist Nanodegree 
 2. How do price and property rating imact the property occupancy?
 3. What are additional factors that need to be considered to increase property occupancy?
 
+I concluded that property location is the main factor influencing how much the property is occupied. Other factors include number of bedrooms and cancellation policy. At the same time, more obvious factors such as price and property ratings are not as important.
+
 ### 2. File Descriptions
 There are two files:
 - SeattleAirB&B_fin.ipynb - the notebook with the python code 
