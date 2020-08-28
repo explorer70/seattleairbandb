@@ -18,7 +18,7 @@ I concluded that property location is the main factor influencing how much the p
 ### 2. File Descriptions
 There are two files:
 - SeattleAirB&B_fin.ipynb - the notebook with the python code 
-- SeattleAirVaBBlogPost_fin.docx - the word document with the summary of the analysis as a blog post
+- SeattleAirVaBBlogPost_fin.MD - is a blog post with the summary of the analysis
 
 ### 3. How to Interact with the Project
 I suggest to read the blog first to understand the intent and the summary of the analysis. The jupyter notebook has more detailed analysis, code and diagrams. To run the code, you will need to get the data from here: https://www.kaggle.com/airbnb/seattle/
